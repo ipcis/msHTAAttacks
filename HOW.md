@@ -10,3 +10,8 @@ For blue teams: Usually, if you don’t rely on HTA files, it is recommended to 
 ```
 https://www.mandiant.com/resources/blog/seo-poisoning-batloader-atera
 ```
+
+
+```
+https://hatching.io/blog/lnk-hta-polyglot/
+```
